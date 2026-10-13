@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: e904aba4e86b667458b2179f2ddf2520
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_0
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 749
+        width: 331
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2cc762aed43e7468af4fafdb5abf0b
+      internalID: -1929299985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_1
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 0
+        width: 376
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692fd259f4a60e841aee74771fb6bf96
+      internalID: -1589238147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_2
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 382
+        width: 309
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6082a5d449c54d928071a48bbddc2
+      internalID: -292057376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1768
+        width: 277
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd62f8d343decd418bd7e4cd05c49e5
+      internalID: 104659731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1768
+        width: 276
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbbd83a72289648b3209081e878fde
+      internalID: -424351811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1768
+        width: 276
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec964b1a6de5eb438ca45aa38925a3c
+      internalID: -1771769101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1768
+        width: 276
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efeccd41c542df4a9868cd51eb5451a
+      internalID: -1816858876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_7
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1769
+        width: 276
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e640e1d31fee46a0df19856b47155
+      internalID: -1870962996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1769
+        width: 276
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7e0725adf3b64e922f00d4892e898
+      internalID: -75279842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_9
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1769
+        width: 276
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fcd2f123bcca343b985c7a90bd89d5
+      internalID: -1602762771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1492
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d93a227b7909c4195fbe18cf1687c1
+      internalID: -1357462327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1492
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf87485f50066d469963677401430d8
+      internalID: -436500449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1490
+        width: 269
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ccef1fb8b50344bfd7d4b28435ac9
+      internalID: -1363133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_13
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1492
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5b2f95b6853a49af10f2cf915097d
+      internalID: -1406613057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_14
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1492
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107902dbadac51e49ae313855c724eec
+      internalID: 1495322527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_15
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1497
+        width: 265
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f1bbe818e13443916a258cb4dd87f
+      internalID: 246868716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_16
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1497
+        width: 265
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f109d89b4497234f8bafd07f3ab591e
+      internalID: 912854821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1186
+        width: 1144
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883ab41155abc644b9feaa954516131
+      internalID: -1226578436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_18
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1360
+        width: 449
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0fb80d83dfa084bb31e11c2e5f9a7e
+      internalID: 508182724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_19
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1290
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4667abaa9635d54a8eff39a61a6fb51
+      internalID: 415040860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_20
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1289
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fd9605dfcdff439f139665a6eddb6
+      internalID: 198981566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1240
+        width: 417
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0ed56baea66042975370ee5174c33
+      internalID: -104432104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1067
+        width: 757
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 13, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a8d3e259075940ba7e5a86af22230
+      internalID: -1584936663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_23
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 929
+        width: 273
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8984e7a3862bdfb49834196667a35798
+      internalID: 779835571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_24
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1045
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861740b0179c6f4cbddbd0d960c96af
+      internalID: -27484698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 811
+        width: 705
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b9b7ea9a62f24f9d608240ac432d7
+      internalID: -1694484565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_26
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 633
+        width: 236
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d15dc87bb723d445ba995ee6ef65c7d
+      internalID: -2134779513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_27
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 935
+        width: 128
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2433354f51d6fbd40ac24da08aff1538
+      internalID: 2123471855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 625
+        width: 732
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d553ea9cd8a84a89d1477f0a9af8f
+      internalID: 1424972731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_29
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 914
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10122424d506a9b4f86f72a74b0da177
+      internalID: -834439513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 406
+        width: 1222
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653f43463c4db7439fb7bac4e14075d
+      internalID: 1569266942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_31
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 679
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41819b883371723408f6e30d59ac7126
+      internalID: 494478938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_32
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 678
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20271266c4763bd458d719dc06a500cd
+      internalID: -439369729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_33
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 683
+        width: 217
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3a0a8fe306574f8bdb302afefab29
+      internalID: 1022085433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebcfebde77e3049b32adedb7935a6f
+      internalID: 1707709407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 283
+        width: 343
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013638b60126ac4a89a7f9f860c43ea
+      internalID: 1215999054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 8
+        width: 211
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bdb6f0536a5ca47a3204578aea2082
+      internalID: -81782755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_37
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 341
+        width: 322
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eadb7516ccf524f935d62e67a9df5b
+      internalID: -667118993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 502
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf8692bdb28f84ab15532575e643fc
+      internalID: 1557775911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryUI_Frame_1_39
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 6
+        width: 486
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dac2eceb115bb4ca4dc61550df5913
+      internalID: 1873632881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StoryUI_Frame_1_0: -1929299985
+      StoryUI_Frame_1_1: -1589238147
+      StoryUI_Frame_1_10: -1357462327
+      StoryUI_Frame_1_11: -436500449
+      StoryUI_Frame_1_12: -1363133019
+      StoryUI_Frame_1_13: -1406613057
+      StoryUI_Frame_1_14: 1495322527
+      StoryUI_Frame_1_15: 246868716
+      StoryUI_Frame_1_16: 912854821
+      StoryUI_Frame_1_17: -1226578436
+      StoryUI_Frame_1_18: 508182724
+      StoryUI_Frame_1_19: 415040860
+      StoryUI_Frame_1_2: -292057376
+      StoryUI_Frame_1_20: 198981566
+      StoryUI_Frame_1_21: -104432104
+      StoryUI_Frame_1_22: -1584936663
+      StoryUI_Frame_1_23: 779835571
+      StoryUI_Frame_1_24: -27484698
+      StoryUI_Frame_1_25: -1694484565
+      StoryUI_Frame_1_26: -2134779513
+      StoryUI_Frame_1_27: 2123471855
+      StoryUI_Frame_1_28: 1424972731
+      StoryUI_Frame_1_29: -834439513
+      StoryUI_Frame_1_3: 104659731
+      StoryUI_Frame_1_30: 1569266942
+      StoryUI_Frame_1_31: 494478938
+      StoryUI_Frame_1_32: -439369729
+      StoryUI_Frame_1_33: 1022085433
+      StoryUI_Frame_1_34: 1707709407
+      StoryUI_Frame_1_35: 1215999054
+      StoryUI_Frame_1_36: -81782755
+      StoryUI_Frame_1_37: -667118993
+      StoryUI_Frame_1_38: 1557775911
+      StoryUI_Frame_1_39: 1873632881
+      StoryUI_Frame_1_4: -424351811
+      StoryUI_Frame_1_5: -1771769101
+      StoryUI_Frame_1_6: -1816858876
+      StoryUI_Frame_1_7: -1870962996
+      StoryUI_Frame_1_8: -75279842
+      StoryUI_Frame_1_9: -1602762771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
